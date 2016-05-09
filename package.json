@@ -1,0 +1,50 @@
+{
+  "name": "momentum-wallpapers",
+  "version": "1.0.3",
+  "description": "Setting the momentum dashboard chrome extension background as a desktop wallpaper",
+  "main": "app.js",
+  "bin": {
+    "momentum-wallpapers": "./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Edmeral/momentum-wallpapers.git"
+  },
+  "author": {
+    "name": "Aissam BELHACHMI",
+    "email": "edmeral.aissam@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edmeral/momentum-wallpapers/issues"
+  },
+  "homepage": "https://github.com/Edmeral/momentum-wallpapers",
+  "dependencies": {
+    "daemon": "^1.1.0",
+    "sqlite3": "^3.1.3",
+    "wallpaper": "^1.0.0",
+    "fs": "^0.0.2"
+  },
+  "gitHead": "535cd8044e4f8ee6ce8c44eaa877a3612ed69fab",
+  "_id": "momentum-wallpapers@1.0.3",
+  "scripts": {},
+  "_shasum": "b0fe8d87b0ff6360f58845b1279a6f33dae6271c",
+  "_from": "momentum-wallpapers@latest",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "edmeral",
+    "email": "edmeral.aissam@ŋmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "edmeral",
+      "email": "edmeral.aissam@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "b0fe8d87b0ff6360f58845b1279a6f33dae6271c",
+    "tarball": "http://registry.npmjs.org/momentum-wallpapers/-/momentum-wallpapers-1.0.3.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/momentum-wallpapers/-/momentum-wallpapers-1.0.3.tgz"
+}
